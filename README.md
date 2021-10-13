@@ -2,6 +2,8 @@
 This is a translation for betterend minecraft mod. I did this on my own with the sole intention of adding more to the community.
 
 
+(Please translate this from Brazilian Portuguese to your language if you want to read it.)
+
 Essa tradução foi feita com a inteção de tornar o mod ainda mais acessível para outros jogadores,
 jogadores que não tem muito entendimento sobre outro idioma, nesse caso o idioma inglês.
 
