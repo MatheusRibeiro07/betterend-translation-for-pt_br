@@ -11,7 +11,7 @@ Pensando nisso, eu decidi por conta própria fazer uma tradução seguindo da me
 Segui a forma com o prórprio "minecraft" traduz algumas coisas do inglês para o português brasileiro.
 
 Fiz o mínimo de alterações / diferenciações das traduções diretas do inglês para o português brasileiro,
-só forem feitas mudanças nas traduções quando realmente ouve necessidade para que não fugisse tanto de como
+só forem feitas mudanças nas traduções quando realmente houve necessidade para que não fugisse tanto de como
 as coisas são ditas e entendidas no idioma português brasileiro.
 
 E reforçando, a tradução foi feito com a intenção de agreagar e tornar a experiência com o mod (better-end) mais divertida para todas as pessoas.
